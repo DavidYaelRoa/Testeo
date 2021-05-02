@@ -6,7 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="https://hosting.photobucket.com/images/i/Arturo_Alquimia_Dev/Logo_S.png%22%3E
 
-	<h1> Titulo </h1>
-<body>
+	 <body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body> <body>
 </body>
 </html>
