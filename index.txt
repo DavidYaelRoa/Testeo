@@ -9,5 +9,22 @@
 	<h1> Titulo </h1>
 	<h2> Titulo2 </h2>
 <body>
+	<table style="width:100%">
+	  <tr>
+	    <th>Nombre</th>
+	    <th>Apellido</th>
+	    <th>Edad</th>
+	  </tr>
+	  <tr>
+	    <td>Mike</td>
+	    <td>Beta</td>
+	    <td>50</td>
+	  </tr>
+	  <tr>
+	    <td>Cesar</td>
+	    <td>Perez</td>
+	    <td>12</td>
+	  </tr>
+	</table>
 </body>
 </html>
