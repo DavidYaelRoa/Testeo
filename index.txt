@@ -7,11 +7,8 @@
   <link rel="icon" type="image/x-icon" href="https://hosting.photobucket.com/images/i/Arturo_Alquimia_Dev/Logo_S.png%22%3E
 
 	<h1> Titulo </h1>
-	<ol>
-  		<li>Coffee</li>
- 		 <li>Tea</li>
- 		 <li>Milk</li>
-	</ol>
+	<h2> Titulo2 </h2>
+	<h3> Titulo3 </h3>
 <body>
 </body>
 </html>
