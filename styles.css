@@ -3,7 +3,11 @@ body{
 }
 h1{
     font-size: 50px;
+    color: brown;
 }
 h2{
     font-size: 100px;
+}
+table{
+    
 }
